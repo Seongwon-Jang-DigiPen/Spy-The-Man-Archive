@@ -4,6 +4,7 @@ Reproduction or disclosure of this file or its contents without the prior
 written consent of DigiPen Institute of Technology is prohibited.
 Project: Spy the Man
 Author: Seongwon Jang
+my work
 -----------------------------------------------------------------*/
 #pragma once
 #include <string>
